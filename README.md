@@ -76,15 +76,5 @@ endmodule
 ![image](https://github.com/sethu107/Experiment--02-Implementation-of-combinational-logic-/assets/149347373/a12a693c-7912-4ce8-88d3-f3de3ca551e0)
 # F2:
 ![image](https://github.com/sethu107/Experiment--02-Implementation-of-combinational-logic-/assets/149347373/784dab1c-277a-4f85-ba1a-a60b1184cf8b)
-
-
-## RTL
-## Timing Diagram
-# F1:
-![image](https://github.com/sethu107/Experiment--02-Implementation-of-combinational-logic-/assets/149347373/ab1d3038-1888-4f05-8dd8-ed3e7341642a)
-# F2:
-![image](https://github.com/sethu107/Experiment--02-Implementation-of-combinational-logic-/assets/149347373/c07fae56-4127-4bc8-bfd9-98a9cecfaaf1)
-
-
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.

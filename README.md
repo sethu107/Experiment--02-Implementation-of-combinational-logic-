@@ -1,3 +1,5 @@
+# NAME:SETHUPATHI 
+# REG NO:23005510
 # Experiment--02-Implementation-of-combinational-logic
 Implementation of combinational logic gates
  
